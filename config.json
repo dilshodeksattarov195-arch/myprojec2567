@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerderify",
+        "uuid": 17745671,
+        "checksum": "ilg7pj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
